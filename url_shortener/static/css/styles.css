@@ -1,0 +1,11 @@
+body {
+  background-color: #f7f7f9;
+}
+
+.card {
+  border: none;
+}
+
+.table code {
+  font-size: 0.9rem;
+}
